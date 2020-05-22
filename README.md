@@ -1,2 +1,2 @@
 # ebayScraper
-Application scrapes all awailable products from specified location.
+This Go app scrapes all available products from specified location.
